@@ -1,0 +1,5 @@
+{
+  "name": "NEON_SNAKE_OS",
+  "description": "A glitch-art snake game and procedural music player.",
+  "requestFramePermissions": []
+}
